@@ -1,4 +1,6 @@
 # 02-rest-api-simple
+Tham khảo
+https://github.com/callicoder/spring-boot-mysql-rest-api-tutorial
 
 ## Requirements
 - Mysql

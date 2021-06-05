@@ -1,16 +1,21 @@
-# java-tutorial
-Java Project Tutorial
+# Java-tutorial
 
-- Học các kiến thức căn bản trong java
+## Overview
+- Java Basic
+    - Các khái niệm cơ bản về java
 
-## 01-demo-spring-boot
-- Tìm hiểu cách cấu hình và cài đặt với JavaSpringBoot
+- Spring Boot Tutorial
+    - Hướng dẫn học các kiến thức Java Spring Boot
 
-## 02-rest-api-simple
-https://github.com/callicoder/spring-boot-mysql-rest-api-tutorial
+- Spring Boot Project
+    - Tổng hợp các project từ cơ bản tới nâng cao kết hợp giữa các công nghệ của spring
 
-## 03-rest-api-middle
-https://github.com/osopromadze/Spring-Boot-Blog-REST-API/tree/master/src/main/java/com/sopromadze/blogapi/model
+- Document
+    - Hướng dẫn các cách làm việc, cách cài đặt, cách cấu hình với java
 
-## 04-rest-api-advanced
-https://github.com/khoubyari/spring-boot-rest-example/tree/master/src/main/java/com/khoubyari/example
+## Java Basic Todolist
+
+- [ ] Tìm hiểu cách cấu hình và cài đặt với JavaSpringBoot
+- [ ] Hướng dẫn sử dụng Maven, Gradle
+
+## Spring Boot Tutorial
